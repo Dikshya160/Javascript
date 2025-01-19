@@ -125,5 +125,62 @@
 //    console.log(typeof booleanIsloggedin)
    
 
+// ****************************** Operation **************************
+
+let value =3
+let negvalue = -value
+// console.log(negvalue)
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(8/2);
+// console.log(4%4);  //Reminder
+
+let str1="hello"
+let str2=" Dikshya"
+let str3 =str1 + str2
+// console.log(str3) 
+
+
+// console.log( "1" + "2")   
+// console.log ( 2 + "3")
+// console.log("2" + 1 )
+// note-- One string and number or both string never get sumup
+
+
+// console.log(4 + 5 +"2" ) //if string came after number then the first two number get added ans-92
+// console.log(8 + "2" +9)  // ans- 829
+// console.log("3" + 5 * 3) //ans- 315
+
+// console.log( 3 + 8 * 4 / 2) //not a proper way to write
+   //use of paranthesis 
+//   console.log( 3 + (8-3))
+
+
+  // Don't write confusing code foreg:
+
+//   console.log( + true)
+//   console.log( true + 1)
+//   console.log (+false)
+//   console.log(false + 2)
+//   console.log(+ "")
+ 
+ 
+  // Prefix and profix 
+
+//   let gamecounter=100
+//   ++gamecounter;
+//   console.log(gamecounter);
+
+//   let gamecounter=200
+//   gamecounter++;
+//   console.log(gamecounter);
+  
+
+
+
+
 
 
