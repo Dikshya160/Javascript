@@ -180,7 +180,10 @@ let str3 =str1 + str2
   
 
 
-
+// Left over concept except + every others opeation works fine on string-number operation
+// console.log("10" - 2); // Output: 8
+// console.log("10" * 2)
+// console.log("2" + 1 )
 
 
 
